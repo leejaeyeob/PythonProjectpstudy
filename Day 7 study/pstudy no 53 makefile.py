@@ -4,7 +4,7 @@
     출력(output) 파일생성, 내용 추가를 말한다.
 '''
 
-# file = opn('myfile.txt', 'wt')
+# file = open('myfile.txt', 'wt')
 # print('myFile.txt 파일이 생성되었습니다.')
 # file.close()
 
